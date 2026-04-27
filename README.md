@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanvi Dhoka
-📧 [tanvidhoka0511@gmail.com](mailto:tanvidhoka0511@gmail.com) | 📞 +91-8949255047  
+📧 [Email](mailto:tanvidhoka0511@gmail.com) | 📞 +91-8949255047  
 🔗 [LinkedIn](https://www.linkedin.com/in/tanvi-dhoka/)
-### 💼 Business Analyst | Data Analytics | Semiconductor Backend
+# 💼 Business Analyst | Data Analytics | Semiconductor Backend
 
 ## 🚀 About Me
 
