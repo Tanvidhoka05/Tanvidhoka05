@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Tanvi Dhoka
- [Email](mailto:tanvidhoka0511@gmail.com) | 📞 +91-8949255047  
-🔗 [LinkedIn](https://www.linkedin.com/in/tanvi-dhoka/) 
+📧[Email](mailto:tanvidhoka0511@gmail.com) | 📞 +91-8949255047 | 🔗 [LinkedIn](https://www.linkedin.com/in/tanvi-dhoka/) 
 
-💼 Business Analyst | Data Analytics | Semiconductor Backend
+💼 Business Analyst | Product development | Semiconductor Backend
 
 ## 🚀 About Me
 
@@ -13,37 +12,24 @@
 
 ---
 
-## 🧠 Business Analytics Skills
-
-* Requirement Gathering & Stakeholder Communication
-* Data Analysis & Business Insights
-* KPI Development & Performance Tracking
-* Dashboarding & Data Storytelling
-* Process Optimization & Continuous Improvement
-* Problem Solving & Decision Making
-
----
-
 ## 🛠️ Tech Stack
 
-### 💻 Data & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+### 💻 Data Analysis  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
-### 📊 Visualization & BI
+### 📊 Data Visualization & Reporting  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=Tableau\&logoColor=white)
-
-### ⚙️ Tools & Platforms
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-
----
+### ⚙️ Tools & Platforms  
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge)
 
 ## 📊 Featured Work
 * Developed dashboard for **automated reporting systems** integrating multi-source data (equipment telemetry, yield, KPI/KPOV, SPC/FDC),
