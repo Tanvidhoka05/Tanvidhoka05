@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tanvi Dhoka
-📧[Email](mailto:tanvidhoka0511@gmail.com) | 📞 +91-8949255047 | 🔗 Website(https://tanvidhoka05.github.io/Tanvidhoka05/)
+📧[Email](mailto:tanvidhoka0511@gmail.com) | 📞 +91-8949255047 | 🔗 [Website](https://tanvidhoka05.github.io/Tanvidhoka05/)
 
 💼 Business Analyst | Product development | Semiconductor Backend
 
